@@ -163,3 +163,7 @@ const [error, data] = await unfee('/api', {
   },
 })
 ```
+
+## License
+
+Published under the [MIT](https://github.com/ayb-cha/unfee/blob/main/LICENSE) license.
